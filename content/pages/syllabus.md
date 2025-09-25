@@ -88,7 +88,7 @@ Final Project Presentation
 Course Materials
 ----------------
 
-Ulrich, Karl, and Steven Eppinger. {{% resource_link "b445db4a-e449-4df8-a414-30b0409d2130" "_Product Design and Development_" %}}_._ 3rd ed. New York, NY: McGraw-Hill, 2003. ISBN: 9780072471465.
+Ulrich, Karl, and Steven Eppinger. [_Product Design and Development_](http://www.ulrich-eppinger.net/)_._ 3rd ed. New York, NY: McGraw-Hill, 2003. ISBN: 9780072471465.
 
 Thomke, Stefan, and Ashok Nimgade. "IDEO Product Development." Boston, MA: Harvard Business School Case 9-600-143, June 22, 2000.
 

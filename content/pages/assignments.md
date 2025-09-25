@@ -95,7 +95,7 @@ Please adhere to the following guidelines for your team assignments:
 *   Describe some of the steps of your concept generation and target specifications processes. Comment on the process and the results.
 *   Hand in sketches and bullet-point descriptions of 10 to 20 alternative concepts for your product. For each sketch, note which of the important customer needs it addresses and which it does not.
 *   Choose a few (perhaps 3 or 4) critical customer needs from your list. For these critical few, prepare a list of the target specifications and provide documentation to support these decisions.
-*   Perform a preliminary patent review searching on {{% resource_link "6183af3d-3239-4b5e-8b62-ff9f1e8e73e0" "United States Patent and Trademark Office" %}} for any prior art and related ideas. Briefly describe the 3 closest matches and attach appropriate material from the Web site.
+*   Perform a preliminary patent review searching on [United States Patent and Trademark Office](http://www.uspto.gov/) for any prior art and related ideas. Briefly describe the 3 closest matches and attach appropriate material from the Web site.
 
 ### Assignment 4: Preliminary Concept Selection and Schedule
 

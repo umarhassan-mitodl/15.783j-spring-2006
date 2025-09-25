@@ -12,7 +12,7 @@ uid: e0dc4886-6866-730c-4d4a-9c9757e22926
 Readings
 --------
 
-Ulrich, Karl, and Steven Eppinger. {{% resource_link "b445db4a-e449-4df8-a414-30b0409d2130" "_Product Design and Development_" %}}. 3rd ed. New York, NY: McGraw-Hill, 2004. ISBN: 9780072471465.  
+Ulrich, Karl, and Steven Eppinger. [_Product Design and Development_](http://www.ulrich-eppinger.net/). 3rd ed. New York, NY: McGraw-Hill, 2004. ISBN: 9780072471465.  
 In all cases where chapters are listed below, they are from this book.
 
 Thomke, Stefan, and Ashok Nimgade. "IDEO Product Development." Boston, MA: Harvard Business School Case 9-600-143, June 22, 2000.
