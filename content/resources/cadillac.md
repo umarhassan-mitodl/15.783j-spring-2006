@@ -4,8 +4,6 @@ description: 'This file contains information regarding Cadillac CTS Door Closer.
 file: /courses/15-783j-product-design-and-development-spring-2006/48df4c0c6b86eab67a0ed3c230df7e03_cadillac.pdf
 file_size: 665406
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
